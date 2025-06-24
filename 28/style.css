@@ -95,4 +95,8 @@ td{
 .letter4 img{
     width: 30%;
     float: left;
+    padding-left: 0;
+}
+.moviedaruma{
+    padding-right: 0;
 }
