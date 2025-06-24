@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+}
+nav{
+    background-color:white;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content:center;
+}
+nav a{
+    color: #000;
+    text-decoration: none;
+    padding: 15px;
+}
+nav a:hover{
+    background-color: red;
+}
+.catright{
+    width: 30%;
+    position: fixed;
+    right: 0;
+    top: 60px;
+}
+.catleft{
+    width: 30%;
+    position: fixed;
+    left: 0;
+    top: 60px;
+}
+.letter{
+    margin-top: 50px;
+    text-align: center;
+}
+#catbir{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+.frog{
+    justify-content: space-between;
+    width: 33%;
+}
+#kaerudera{
+    text-align: center;
+}
+.movie1{
+    width: 45%;
+    float: left;
+}
+.letter2{
+    margin-top: 50px;
+    text-align: center;
+}
+.warning{
+    color: red;
+}
+.anime{
+    width: 30%;
+    float: left;
+}
+.letter3{
+    text-align: center;
+    margin-top: 60px;
+}
+.DARUMA{
+    width: 50%;
+    float: left;
+}
+.name{
+    color: red;
+    text-align: center;
+    margin-top: 60px;
+}
+table{
+    border: solid 1px;
+    border-collapse: collapse;
+    width: 40%;
+    text-align: center;
+}
+td{
+    border: solid 1px;
+}
+.CRimage{
+    margin-left: 160px;
+    width: 25%;
+}
+.letter4 h2{
+    margin-top: 30px;
+}
+.letter4 img{
+    width: 30%;
+}
