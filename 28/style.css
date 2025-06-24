@@ -94,4 +94,5 @@ td{
 }
 .letter4 img{
     width: 30%;
+    float: left;
 }
