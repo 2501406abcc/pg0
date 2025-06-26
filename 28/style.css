@@ -86,6 +86,7 @@ td{
     border: solid 1px;
 }
 .CRimage{
+    margin-top: 20px;
     margin-left: 160px;
     width: 25%;
 }
@@ -95,8 +96,17 @@ td{
 .letter4 img{
     width: 30%;
     float: left;
-    padding-left: 0;
 }
-.moviedaruma{
-    padding-right: 0;
+.letter5{
+    margin-top: 70px;
+}
+.letter5 h1{
+    text-align: center;
+}
+.NBA{
+    width: 50%;
+    float: left;
+}
+.LeBron{
+    width: 35%;
 }
